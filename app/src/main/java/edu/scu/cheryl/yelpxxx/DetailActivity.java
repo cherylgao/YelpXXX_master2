@@ -486,7 +486,7 @@ public class DetailActivity extends AppCompatActivity {
                 try {
                     CoordinateOptions coordinate = CoordinateOptions.builder()
                             .latitude(latitude).longitude(longitude).build();
-                    call = yelpAPI.search("San Jose", para);// hard code for now
+                    call = yelpAPI.search(coordinate, para);
                     Response<SearchResponse> response = call.execute();
                     for (Business b : response.body().businesses()) {
                         rest.add(b);
