@@ -57,10 +57,9 @@ public class RestaurantList extends AppCompatActivity implements AdapterView.OnI
 
         final Map<String, String> para = new HashMap<>();
         para.put("term", restaurant);
-        para.put("limit", "5");
+        para.put("limit", "10");
         para.put("lang", "fr");
         lv = (ListView) findViewById(R.id.restaurantList);
-//        setListViewHeightBasedOnChildren(lv);
         lv.setOnItemClickListener(this);
 
         final RestaurantList cur = this;
@@ -93,12 +92,9 @@ public class RestaurantList extends AppCompatActivity implements AdapterView.OnI
 
             @Override
             protected void onPostExecute(String result) {
-                //toast("kkkkkkk");
                 lv.setAdapter(new RestaurantArrayAdaptor(cur, R.layout.my_list, restaurants));
                 setListViewHeightBasedOnChildren(lv);
 
-                //mSearchResultsText.setText(result);
-                //setProgressBarIndeterminateVisibility(false);
             }
         }.execute();
 
@@ -123,11 +119,10 @@ public class RestaurantList extends AppCompatActivity implements AdapterView.OnI
         ActionBar actionBar = getSupportActionBar();
         actionBar.setTitle("Pley");
         actionBar.setSubtitle("Better than ever!");
-        //actionBar.setBackgroundDrawable(ContextCompat.getDrawable(getApplicationContext(), R.drawable.action_bar_background));
         actionBar.setIcon(R.drawable.ic_action_name);
         actionBar.setDisplayHomeAsUpEnabled(true);
-//        actionBar.setDisplayShowHomeEnabled(true);
-//        actionBar.setHomeButtonEnabled(true);
+        actionBar.setDisplayShowHomeEnabled(true);
+        actionBar.setHomeButtonEnabled(true);
     }
 
     @Override
