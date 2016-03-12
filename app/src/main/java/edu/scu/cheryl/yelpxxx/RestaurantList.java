@@ -3,6 +3,7 @@ package edu.scu.cheryl.yelpxxx;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.AsyncTask;
+import android.support.v4.app.NavUtils;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -125,8 +126,8 @@ public class RestaurantList extends AppCompatActivity implements AdapterView.OnI
         //actionBar.setBackgroundDrawable(ContextCompat.getDrawable(getApplicationContext(), R.drawable.action_bar_background));
         actionBar.setIcon(R.drawable.ic_action_name);
         actionBar.setDisplayHomeAsUpEnabled(true);
-        actionBar.setDisplayShowHomeEnabled(true);
-        actionBar.setHomeButtonEnabled(true);
+//        actionBar.setDisplayShowHomeEnabled(true);
+//        actionBar.setHomeButtonEnabled(true);
     }
 
     @Override
@@ -164,11 +165,14 @@ public class RestaurantList extends AppCompatActivity implements AdapterView.OnI
                 intent3.setData(Uri.parse("package:edu.scu.cheryl.yelpxxx"));
                 startActivity(intent3);
                 break;
+            case R.id.home:
+                NavUtils.navigateUpFromSameTask(this);
+                return true;
             default:
                 toast("unknown action ...");
         }
 
-        return true;
+         return super.onOptionsItemSelected(item);
     }
     private void toast(String msg) {
         Toast.makeText(getApplicationContext(), msg, Toast.LENGTH_SHORT).show();
@@ -190,7 +194,7 @@ public class RestaurantList extends AppCompatActivity implements AdapterView.OnI
             totalHeight += view.getMeasuredHeight();
         }
         ViewGroup.LayoutParams params = listView.getLayoutParams();
-        params.height = totalHeight + (listView.getDividerHeight() * (listAdapter.getCount() - 1))+100;
+        params.height = totalHeight + (listView.getDividerHeight() * (listAdapter.getCount() - 1))+600;
         listView.setLayoutParams(params);
     }
 

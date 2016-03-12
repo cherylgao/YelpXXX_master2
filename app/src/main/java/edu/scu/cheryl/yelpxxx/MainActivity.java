@@ -59,15 +59,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                         .build();
             }
         }
-//        location = (TextView) findViewById(R.id.lblLocation);
 
         nearby = (Button) findViewById(R.id.nearbyButton);
         nearby.setOnClickListener(this);
         lucky = (Button) findViewById(R.id.luckyButton);
         lucky.setOnClickListener(this);
         restaurantName = (EditText) findViewById(R.id.restaurantName);
-//        show = (Button) findViewById(R.id.show);
-//        show.setOnClickListener(this);
+
 
         cityName = (EditText) findViewById(R.id.cityName);
 
@@ -80,10 +78,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         actionBar.setSubtitle("Better than ever");
         //actionBar.setBackgroundDrawable(ContextCompat.getDrawable(getApplicationContext(), R.drawable.action_bar_background));
         actionBar.setIcon(R.drawable.ic_action_name);
-        actionBar.setDisplayHomeAsUpEnabled(true);
+//        actionBar.setDisplayHomeAsUpEnabled(true);
         actionBar.setDisplayShowHomeEnabled(true);
         actionBar.setHomeButtonEnabled(true);
-        System.out.println("end of onCreate");
+//        System.out.println("end of onCreate");
     }
 
     @Override
@@ -239,6 +237,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 intent3.setData(Uri.parse("package:edu.scu.cheryl.yelpxxx"));
                 startActivity(intent3);
                 break;
+//            case R.id.home:
+//                finish();
+//                return true;
             default:
                 toast("unknown action ...");
         }

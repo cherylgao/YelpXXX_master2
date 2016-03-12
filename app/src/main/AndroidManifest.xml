@@ -19,11 +19,16 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".RestaurantList" />
-        <activity android:name=".DetailActivity" />
-        <activity android:name=".ReviewActivity" />
-        <activity android:name=".AboutUs" />
-        <activity android:name=".LuckyActivity"></activity>
+        <activity android:name=".RestaurantList"
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".DetailActivity"
+            android:parentActivityName=".RestaurantList"/>
+        <activity android:name=".ReviewActivity"
+            android:parentActivityName=".DetailActivity"/>
+        <activity android:name=".AboutUs"
+            android:parentActivityName=".MainActivity"/>
+        <activity android:name=".LuckyActivity"
+            android:parentActivityName=".MainActivity"></activity>
     </application>
 
 </manifest>

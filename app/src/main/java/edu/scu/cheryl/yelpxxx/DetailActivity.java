@@ -6,6 +6,7 @@ import android.content.SharedPreferences;
 import android.graphics.Color;
 import android.net.Uri;
 import android.os.AsyncTask;
+import android.support.v4.app.NavUtils;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -526,6 +527,9 @@ public class DetailActivity extends AppCompatActivity {
                 intent3.setData(Uri.parse("package:edu.scu.cheryl.yelpxxx"));
                 startActivity(intent3);
                 break;
+            case R.id.home:
+                NavUtils.navigateUpFromSameTask(this);
+                return true;
             default:
                 toast("unknown action ...");
         }

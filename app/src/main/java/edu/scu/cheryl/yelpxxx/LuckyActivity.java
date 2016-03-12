@@ -2,6 +2,7 @@ package edu.scu.cheryl.yelpxxx;
 
 import android.content.Intent;
 import android.net.Uri;
+import android.support.v4.app.NavUtils;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -127,6 +128,9 @@ public class LuckyActivity extends AppCompatActivity {
                 intent3.setData(Uri.parse("package:edu.scu.cheryl.yelpxxx"));
                 startActivity(intent3);
                 break;
+            case R.id.home:
+                NavUtils.navigateUpFromSameTask(this);
+                return true;
             default:
                 toast("unknown action ...");
         }

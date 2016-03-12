@@ -97,6 +97,9 @@ public class ReviewActivity extends AppCompatActivity {
                 intent3.setData(Uri.parse("package:edu.scu.cheryl.yelpxxx"));
                 startActivity(intent3);
                 break;
+            case R.id.home:
+                finish();
+                return true;
             default:
                 toast("unknown action ...");
         }

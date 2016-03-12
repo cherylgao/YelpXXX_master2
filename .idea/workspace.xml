@@ -10,11 +10,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f84591e2-ef32-4d42-be31-6b1eac821eae" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/R$mipmap.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/R$mipmap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/AboutUs.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/AboutUs.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$2$1$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$2$1$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$2$1$1$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$2$1$1$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$2$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$2$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$2$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$2$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$3$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$3$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$4$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$4$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$4$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$4$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$5$1$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$5$1$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$5$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$5$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$5$2$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$5$2$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$5$2$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$5$2$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$5$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$5$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$GetRestAsync.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity$GetRestAsync.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/DetailActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/LuckyActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/LuckyActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/LuckyActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/LuckyActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/RestaurantList$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/RestaurantList$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/RestaurantList.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/RestaurantList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/ReviewActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/edu/scu/cheryl/yelpxxx/ReviewActivity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" />
@@ -24,18 +45,17 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/AboutUs.java" afterPath="$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/AboutUs.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/edu/scu/cheryl/yelpxxx/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/edu/scu/cheryl/yelpxxx/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/DetailActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/DetailActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/LuckyActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/LuckyActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/RestaurantList.java" afterPath="$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/RestaurantList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/ReviewActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/ReviewActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/mipmap-hdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/mipmap-hdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/mipmap-mdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/mipmap-mdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/mipmap-xhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/mipmap-xhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/mipmap-xxhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/mipmap-xxhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/mipmap-xxxhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/mipmap-xxxhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="YelpXXX-master 2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,61 +76,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="114" column="13" selection-start-line="114" selection-start-column="13" selection-end-line="114" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_about_us.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_about_us.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RestaurantList.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="RestaurantList.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/RestaurantList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.4723618">
+              <caret line="192" column="69" selection-start-line="192" selection-start-column="69" selection-end-line="192" selection-end-column="69" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5276382">
-              <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DownloadImageTask.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/DownloadImageTask.java">
-          <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
-              <folding>
-                <element signature="e#1012#1013#0" expanded="true" />
-                <element signature="e#1058#1059#0" expanded="true" />
-              </folding>
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -119,7 +100,17 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/DetailActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="514" column="5" selection-start-line="514" selection-start-column="5" selection-end-line="514" selection-end-column="5" />
+              <caret line="531" column="28" selection-start-line="531" selection-start-column="28" selection-end-line="531" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="129" column="27" selection-start-line="129" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -129,7 +120,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/AboutUs.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+              <caret line="42" column="41" selection-start-line="42" selection-start-column="41" selection-end-line="42" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -139,7 +130,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/LuckyActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="121" column="57" selection-start-line="121" selection-start-column="57" selection-end-line="121" selection-end-column="57" />
+              <caret line="132" column="28" selection-start-line="132" selection-start-column="28" selection-end-line="132" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -149,7 +140,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/ReviewActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="94" column="36" selection-start-line="94" selection-start-column="36" selection-end-line="94" selection-end-column="36" />
+              <caret line="101" column="27" selection-start-line="101" selection-start-column="27" selection-end-line="101" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -1764,16 +1755,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_restaurant_list.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_about_us.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/ReviewActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/LuckyActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/DetailActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/AboutUs.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/LuckyActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/RestaurantList.java" />
-        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -1815,6 +1806,10 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="YelpXXX-master 2" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gradle Scripts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -1993,7 +1988,7 @@
     <property name="settings.editor.selected.configurable" value="com.genymobile.genymotion.ide.idea.GdmSettings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="emulator-5554" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus_5_API_23" />
   </component>
   <component name="RunManager" selected="Android Application.app">
@@ -2170,7 +2165,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="73" width="1400" height="751" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2192,7 +2187,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496318" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496318" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -2203,6 +2198,14 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -2317,13 +2320,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="249" column="5" selection-start-line="223" selection-start-column="4" selection-end-line="249" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_about_us.xml">
       <provider editor-type-id="android-designer">
         <state />
@@ -2353,22 +2349,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/LuckyActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="121" column="57" selection-start-line="121" selection-start-column="57" selection-end-line="121" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/ReviewActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="94" column="36" selection-start-line="94" selection-start-column="36" selection-end-line="94" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/DownloadImageTask.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2377,22 +2357,6 @@
             <element signature="e#1012#1013#0" expanded="true" />
             <element signature="e#1058#1059#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/AboutUs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/DetailActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="514" column="5" selection-start-line="514" selection-start-column="5" selection-end-line="514" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2407,18 +2371,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/RestaurantList.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/ReviewActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+          <caret line="101" column="27" selection-start-line="101" selection-start-column="27" selection-end-line="101" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.09296482">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/LuckyActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="132" column="28" selection-start-line="132" selection-start-column="28" selection-end-line="132" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/DetailActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="531" column="28" selection-start-line="531" selection-start-column="28" selection-end-line="531" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5276382">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/AboutUs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="41" selection-start-line="42" selection-start-column="41" selection-end-line="42" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="129" column="27" selection-start-line="129" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/scu/cheryl/yelpxxx/RestaurantList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4723618">
+          <caret line="192" column="69" selection-start-line="192" selection-start-column="69" selection-end-line="192" selection-end-column="69" />
           <folding />
         </state>
       </provider>

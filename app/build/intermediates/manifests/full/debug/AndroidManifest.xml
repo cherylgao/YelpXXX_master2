@@ -32,11 +32,21 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="edu.scu.cheryl.yelpxxx.RestaurantList" />
-        <activity android:name="edu.scu.cheryl.yelpxxx.DetailActivity" />
-        <activity android:name="edu.scu.cheryl.yelpxxx.ReviewActivity" />
-        <activity android:name="edu.scu.cheryl.yelpxxx.AboutUs" />
-        <activity android:name="edu.scu.cheryl.yelpxxx.LuckyActivity" />
+        <activity
+            android:name="edu.scu.cheryl.yelpxxx.RestaurantList"
+            android:parentActivityName="edu.scu.cheryl.yelpxxx.MainActivity" />
+        <activity
+            android:name="edu.scu.cheryl.yelpxxx.DetailActivity"
+            android:parentActivityName="edu.scu.cheryl.yelpxxx.RestaurantList" />
+        <activity
+            android:name="edu.scu.cheryl.yelpxxx.ReviewActivity"
+            android:parentActivityName="edu.scu.cheryl.yelpxxx.DetailActivity" />
+        <activity
+            android:name="edu.scu.cheryl.yelpxxx.AboutUs"
+            android:parentActivityName="edu.scu.cheryl.yelpxxx.MainActivity" />
+        <activity
+            android:name="edu.scu.cheryl.yelpxxx.LuckyActivity"
+            android:parentActivityName="edu.scu.cheryl.yelpxxx.MainActivity" />
 
         <meta-data
             android:name="com.google.android.gms.version"
