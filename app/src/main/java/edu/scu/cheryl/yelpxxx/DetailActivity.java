@@ -41,6 +41,7 @@ import java.util.Comparator;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Random;
 import java.util.Scanner;
 
 import cz.msebera.android.httpclient.Header;
@@ -481,16 +482,20 @@ public class DetailActivity extends AppCompatActivity {
             Map<String, String> para = new HashMap<>();
             para.put("radius_filter", radius);
             para.put("lang", "fr");
+            para.put("limit", "5");
+
             while(readLine.hasNext()) {
                 para.put("term", readLine.next() + " food");
+
                 try {
                     CoordinateOptions coordinate = CoordinateOptions.builder()
                             .latitude(latitude).longitude(longitude).build();
                     call = yelpAPI.search(coordinate, para);
                     Response<SearchResponse> response = call.execute();
-                    for (Business b : response.body().businesses()) {
-                        rest.add(b);
-                    }
+                    rest.addAll(response.body().businesses());
+//                    for (Business b : response.body().businesses()) {
+//                        rest.add(b);
+//                    }
 
                 } catch (IOException e) {
                     e.printStackTrace();
@@ -501,10 +506,10 @@ public class DetailActivity extends AppCompatActivity {
 
         @Override
         protected void onPostExecute(String s) {
-            Collections.shuffle(rest);
-
+            Random rand = new Random();
+            int r = rand.nextInt(rest.size());
             if(rest.size()!=0) {
-                showDetail(rest.get(0));
+                showDetail(rest.get(r));
             }
         }
     }
@@ -531,7 +536,10 @@ public class DetailActivity extends AppCompatActivity {
                 NavUtils.navigateUpFromSameTask(this);
                 return true;
             default:
-                toast("unknown action ...");
+                //toast("unknown action ...");
+                Intent intent = new Intent(DetailActivity.this, MainActivity.class);
+                startActivity(intent);
+                break;
         }
 
         return true;

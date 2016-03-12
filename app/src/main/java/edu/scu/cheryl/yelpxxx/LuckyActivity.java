@@ -84,6 +84,8 @@ public class LuckyActivity extends AppCompatActivity {
                 i.putExtra("radius", radius);
                 latitude = getIntent().getDoubleExtra("latitude", 0.0);
                 longitude = getIntent().getDoubleExtra("longitude", 0.0);
+                i.putExtra("latitude",latitude);
+                i.putExtra("longitude",longitude);
                 i.putExtra("activity", "lucky");
                 startActivity(i);
             }
@@ -95,17 +97,17 @@ public class LuckyActivity extends AppCompatActivity {
         switch (view.getId()) {
             case R.id.fiveMile:
                 if (checked) {
-                    radius = "5";
+                    radius = "8000";
                 }
                 break;
             case R.id.fifMile:
                 if (checked) {
-                    radius = "15";
+                    radius = "24000";
                 }
                 break;
             case R.id.twMile:
                 if (checked) {
-                    radius = "25";
+                    radius = "40000";
                 }
                 break;
         }
