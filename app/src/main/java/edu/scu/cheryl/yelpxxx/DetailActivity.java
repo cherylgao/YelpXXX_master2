@@ -122,7 +122,7 @@ public class DetailActivity extends AppCompatActivity {
                 RequestParams params = new RequestParams();
                 params.put("name", name);
                 params.put("restaurant_id", restaurant_id);
-                String baseURL = "http://52.193.219.37:8080/db_rest/rest";
+                String baseURL = "http://52.196.7.97:8080/db_rest/rest";
                 AsyncHttpClient client = new AsyncHttpClient();
 
                 client.post(baseURL + "/dish/", params, new JsonHttpResponseHandler() {
@@ -130,7 +130,7 @@ public class DetailActivity extends AppCompatActivity {
                     public void onSuccess(int statusCode, Header[] headers, JSONArray response) {
                         try {
                             System.out.println("get dish response:" + response);
-                            String baseURL = "http://52.193.219.37:8080/db_rest/rest";
+                            String baseURL = "http://52.196.7.97:8080/db_rest/rest";
                             AsyncHttpClient client = new AsyncHttpClient();
                             client.get(baseURL + "/dish/" + restaurant_id, null, new JsonHttpResponseHandler() {
                                 @Override
@@ -211,7 +211,7 @@ public class DetailActivity extends AppCompatActivity {
             }
         }
 
-        String baseURL = "http://52.193.219.37:8080/db_rest/rest";
+        String baseURL = "http://52.196.7.97:8080/db_rest/rest";
         AsyncHttpClient client = new AsyncHttpClient();
         int candidateId = getIntent().getIntExtra("id", -1);
         restaurant_id = candidateId != -1 ? candidateId : restaurant_id;
@@ -337,7 +337,7 @@ public class DetailActivity extends AppCompatActivity {
         RequestParams params = new RequestParams();
         params.put("name", name);
         params.put("address", address);
-        String baseURL = "http://52.193.219.37:8080/db_rest/rest";
+        String baseURL = "http://52.196.7.97:8080/db_rest/rest";
         AsyncHttpClient client = new AsyncHttpClient();
         client.post(baseURL + "/restaurant", params, new JsonHttpResponseHandler() {
             // return restaurant
@@ -349,7 +349,7 @@ public class DetailActivity extends AppCompatActivity {
 
                     //get review
                     AsyncHttpClient client = new AsyncHttpClient();
-                    String baseURL = "http://52.193.219.37:8080/db_rest/rest";
+                    String baseURL = "http://52.196.7.97:8080/db_rest/rest";
                     client.get(baseURL + "/review/" + restaurant_id, null, new JsonHttpResponseHandler() {
                         @Override
                         public void onSuccess(int statusCode, Header[] headers, JSONArray response) {

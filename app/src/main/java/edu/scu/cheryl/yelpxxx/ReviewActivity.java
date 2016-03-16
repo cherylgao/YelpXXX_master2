@@ -60,7 +60,7 @@ public class ReviewActivity extends AppCompatActivity {
 
                 params.put("restaurant_id", id);
                 params.put("review", getReview);
-                String baseURL = "http://52.193.219.37:8080/db_rest/rest";
+                String baseURL = "http://52.196.7.97:8080/db_rest/rest";
                 AsyncHttpClient client = new AsyncHttpClient();
                 client.post(baseURL + "/review", params, new JsonHttpResponseHandler() {
 
